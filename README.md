@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @cmayar "Cris"
+- 🌱 I’m currently learning Full Stack Develop.
 - 📫 Reach me on github
 
 <!---
